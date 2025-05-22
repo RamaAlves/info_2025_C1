@@ -22,7 +22,31 @@
 5. Días de la semana: Pide al usuario un número del 1 al 7. Imprime el día de la semana correspondiente (1 para Lunes, 2 para Martes, etc.). Si el número no está en el rango, imprime "Número inválido".
 6. Cálculo de promedio: Pide al usuario que ingrese 5 números. Calcula el promedio de esos números usando un bucle for y una variable acumuladora.
 7. Divisibles por 3 y 5: Imprime los números del 1 al 30. Si un número es divisible por 3, imprime "Fizz". Si es divisible por 5, imprime "Buzz". Si es divisible por ambos (3 y 5), imprime "FizzBuzz". Si no es divisible por ninguno, imprime el número.
-8. Pirámide de asteriscos: Imprime una pirámide de asteriscos de 5 filas. La primera fila tendrá 1 asterisco, la segunda 2 con un espacio entre cada asterisco, y así sucesivamente. (Usa bucles anidados, si es necesario).
+8. Pirámide de asteriscos: Imprime una pirámide de asteriscos de 5 filas. (Usa bucles anidados, si es necesario)
+nivel 1:
+```
+*
+**
+***
+****
+*****
+```
+nivel 2
+```
+    *
+   ***
+  *****
+ *******
+*********
+```
+nivel 3
+```
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+```
 9. Contar elementos en una lista: Dada una lista de números (por ejemplo, [1, 5, 8, 12, 3]), cuenta cuántos números son mayores que 5 usando un bucle for y un condicional.
 10. Búsqueda en una lista: Dada una lista de palabras (por ejemplo, ["manzana", "banana", "cereza"]), pide al usuario que ingrese una palabra. Si la palabra está en la lista, imprime "¡La encontré!". Si no, imprime "No está en la lista".
 

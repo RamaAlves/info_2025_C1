@@ -1,18 +1,19 @@
 # Pirámide de asteriscos: Imprime una pirámide de asteriscos de 5 filas. 
-# La primera fila tendrá 1 asterisco, la segunda 2 con un espacio entre cada asterisco, y así sucesivamente. 
 # (Usa bucles anidados, si es necesario).
+# nivel 1
+#*
+#**
+#***
+#****
+#*****
 
-#    * 
-#   * *
-#  * * *
-# * * * *
-#* * * * *
+""" filas = 5
 
-#queda de tarea
+for i in range(1, filas + 1):
+    print("*" * i)
+ """
 
-# Variante 2
-# ahora completar los espacios vacios intermedios con *
-
+#nivel 2
 #    *
 #   ***
 #  *****
@@ -25,3 +26,13 @@ for i in range(1, filas + 1):
     print(" " * (filas - i), end="")
     print("*" * (2 * i - 1))
  """
+
+#queda de tarea
+
+# nivel 3
+
+#    * 
+#   * *
+#  * * *
+# * * * *
+#* * * * *
