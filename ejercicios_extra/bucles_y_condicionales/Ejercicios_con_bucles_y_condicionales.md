@@ -47,8 +47,8 @@ nivel 3
  * * * *
 * * * * *
 ```
-10. Contar elementos en una lista: Dada una lista de números (por ejemplo, [1, 5, 8, 12, 3]), cuenta cuántos números son mayores que 5 usando un bucle for y un condicional.
-11. Búsqueda en una lista: Dada una lista de palabras (por ejemplo, ["manzana", "banana", "cereza"]), pide al usuario que ingrese una palabra. Si la palabra está en la lista, imprime "¡La encontré!". Si no, imprime "No está en la lista".
+9. Contar elementos en una lista: Dada una lista de números (por ejemplo, [1, 5, 8, 12, 3]), cuenta cuántos números son mayores que 5 usando un bucle for y un condicional.
+10. Búsqueda en una lista: Dada una lista de palabras (por ejemplo, ["manzana", "banana", "cereza"]), pide al usuario que ingrese una palabra. Si la palabra está en la lista, imprime "¡La encontré!". Si no, imprime "No está en la lista".
 
 ---
 
