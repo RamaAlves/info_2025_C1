@@ -23,6 +23,7 @@
 6. Cálculo de promedio: Pide al usuario que ingrese 5 números. Calcula el promedio de esos números usando un bucle for y una variable acumuladora.
 7. Divisibles por 3 y 5: Imprime los números del 1 al 30. Si un número es divisible por 3, imprime "Fizz". Si es divisible por 5, imprime "Buzz". Si es divisible por ambos (3 y 5), imprime "FizzBuzz". Si no es divisible por ninguno, imprime el número.
 8. Pirámide de asteriscos: Imprime una pirámide de asteriscos de 5 filas. (Usa bucles anidados, si es necesario)
+
 nivel 1:
 ```
 *
