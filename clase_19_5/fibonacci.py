@@ -1,4 +1,5 @@
-#Este programa genera una serie de numeros fibonacci
+# Crear un sistema que dado un número genere una sucesión de fibonacci con esa cantidad 
+# de números en la serie, por ejemplo: 3 -> 0,1,1 o 5 -> 0,1,1,2,3
 
 print("Este programa genera una serie fibonacci")
 pasos = int(input("Ingrese la cantidad de pasos deseada: "))
