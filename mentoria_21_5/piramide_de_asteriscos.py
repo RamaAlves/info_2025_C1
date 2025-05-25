@@ -25,8 +25,8 @@ for i in range(1, filas + 1):
 for i in range(1, filas + 1):
     print(" " * (filas - i), end="")
     print("*" * (2 * i - 1))
- """
 
+ """
 #queda de tarea
 
 # nivel 3
@@ -36,3 +36,13 @@ for i in range(1, filas + 1):
 #  * * *
 # * * * *
 #* * * * *
+
+filas = 5
+
+for i in range(1,filas+1):
+    print(" " * (filas - i), end="")
+    """ print("* " * (i)) """
+    for j in range(1, (2 * i)):
+        if j%2:
+            print("* ", end="")
+    print()
