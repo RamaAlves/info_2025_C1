@@ -37,12 +37,18 @@ for i in range(1, filas + 1):
 # * * * *
 #* * * * *
 
-filas = 5
+""" filas = 5
 
 for i in range(1,filas+1):
     print(" " * (filas - i), end="")
-    """ print("* " * (i)) """
+    # print("* " * (i)) 
     for j in range(1, (2 * i)):
         if j%2:
             print("* ", end="")
     print()
+ """
+
+filas = int(input("Ingrese un numero: "))
+for i in range(1,filas+1):
+    print(" "*(filas-i),end="")
+    print("* "*i)
